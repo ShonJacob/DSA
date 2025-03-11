@@ -1,8 +1,8 @@
-package neetcode.arraysAndHashing;
+package neetcode.arraysandhashing;
 
 import org.junit.Test;
 
-import static neetcode.arraysAndHashing.ContainsDuplicate.hasDuplicate;
+import static neetcode.arraysandhashing.ContainsDuplicate.hasDuplicate;
 import static org.junit.Assert.*;
 
 public class ContainsDuplicateTest {

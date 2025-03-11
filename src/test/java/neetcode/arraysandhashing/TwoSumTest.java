@@ -1,8 +1,8 @@
-package neetcode.arraysAndHashing;
+package neetcode.arraysandhashing;
 
 import org.junit.Test;
 
-import static neetcode.arraysAndHashing.TwoSum.twoSumHashMap;
+import static neetcode.arraysandhashing.TwoSum.twoSumHashMap;
 import static org.junit.Assert.*;
 
 public class TwoSumTest {
